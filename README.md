@@ -1,4 +1,4 @@
-<center><a href="https://github.com/NY0510/NM"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" /></a></center>
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" /></center>
 
 # Hello, World!👋
 
@@ -35,4 +35,4 @@
  - Twitter: <strong><a href="https://twitter.com/vientokorea">@vientokorea</a></strong>
  - Discord: <strong>Viento#0507</strong>
 
-<center><a href="https://github.com/NY0510/NM"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" /></a></center>
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" /></center>
