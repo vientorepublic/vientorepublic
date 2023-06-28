@@ -2,14 +2,11 @@
 
 # Hello, World!👋
 
-### I love programming, but I'm not a developer. Just a student :)
+고등학생 1인 개발자
 
-# Profile
+![Viento's GitHub stats](https://github-readme-stats.vercel.app/api?username=vientorepublic&show_icons=true&theme=cobalt)
 
- - I'm 17years old, high school student.
- - I'm from South Korea.
- - I usually doing **Web-DEV**, I like **Vue.js**
- - My school grades are rather low :(
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vientorepublic&layout=compact&theme=cobalt)
 
 # Ablity
 
