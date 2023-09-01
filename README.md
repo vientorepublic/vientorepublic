@@ -31,6 +31,6 @@
 
  - Email: <strong><a href="mailto:op@viento.me">op@viento.me</a></strong>
  - Twitter: <strong><a href="https://twitter.com/vientokorea">@vientokorea</a></strong>
- - Discord: <strong>_viento</strong>
+ - Discord: <strong>night.journey_</strong>
 
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" /></center>
