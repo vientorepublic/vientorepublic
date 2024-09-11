@@ -19,4 +19,4 @@ I respect individual freedom and strive to provide security solutions to avoid c
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vientorepublic&layout=compact&theme=cobalt)
 
-$${\color{gray}The \space illustration \space above \space was \space created \space secondary \space to \space the \space game \space “Helltaker.”}$$
+The illustration above was created secondary to the game “Helltaker.”
