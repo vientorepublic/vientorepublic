@@ -11,11 +11,15 @@ _This is Lucifer, a character from the game "Helltaker"._
 
 - **Hannam University** - Computer Science Engineering
 
-### Main Areas
+### Interested in
 
 - Full-stack Web Development
 - Digital Security/Privacy
-- Data Collection/Analysis
+- Cute Anime Girls
+- Bitcoin
+- Indie Games
+- Austrian Economics
+- Libertarianism
 - ...and many more
 
 <h2>See at a glance</h2>
