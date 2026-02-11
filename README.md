@@ -23,9 +23,6 @@ _This is Lucifer, a character from the game "Helltaker"._
 - ...and many more
 
 <h2>See at a glance</h2>
-<table>
-<tr>
-<td width="50%">
 
 ### Stats
 
@@ -33,20 +30,14 @@ _This is Lucifer, a character from the game "Helltaker"._
 
 ![vientorepublic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vientorepublic&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
-</td>
-<td width="50%">
-
 ### Projects
 
+- **[Mises Institute Korea (Web Development)](https://miseskorea.org)** - Non-profit organization dedicated to research and education in the Austrian School of economics
 - **[FlowAuth](https://auth.viento.me)** - Authentication system compliant with OAuth 2.0 standard (RFC6749)
 - **[LawCast](https://law.viento.me)** - A public webhook platform that detects and notifies new amendments to the National Assembly Legislative Notice (pal.assembly.go.kr).
 - **[snowflake-id-node](https://github.com/Axoneo/snowflake-id-node)** - Snowflake ID Generator for Node.js
 - **[buffer-analysis-engine](https://github.com/vientorepublic/buffer-analysis-engine)** - Lightweight, dependency-free buffer analysis engine for file content inspection
 - **[melona](https://github.com/vientorepublic/melona)** - Unofficial implementation of Melon API
-
-</td>
-</tr>
-</table>
 
 <h2 align="center">Visitors</h2>
 
