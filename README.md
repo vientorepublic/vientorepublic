@@ -1,11 +1,6 @@
-<div align="center">
-<img width="1280" height="720" alt="helltaker_viento" src="https://github.com/user-attachments/assets/c7009afb-f470-43cb-af74-a0f5c3028591" />
+# Hello, World! 👋
 
-_This is Lucifer, a character from the game "Helltaker"._
-
-</div>
-
-<h2>Introduce myself</h2>
+## Introduce myself
 
 ### Education
 
@@ -22,7 +17,7 @@ _This is Lucifer, a character from the game "Helltaker"._
 - Libertarianism
 - ...and many more
 
-<h2>See at a glance</h2>
+## See at a glance
 
 ### Stats
 
