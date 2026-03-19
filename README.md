@@ -30,6 +30,7 @@
 - **[Mises Institute Korea (Web Development)](https://miseskorea.org)** - Non-profit organization dedicated to research and education in the Austrian School of economics
 - **[FlowAuth](https://auth.viento.me)** - Authentication system compliant with OAuth 2.0 standard (RFC6749)
 - **[LawCast](https://law.viento.me)** - A public webhook platform that detects and notifies new amendments to the National Assembly Legislative Notice (pal.assembly.go.kr).
+- **[Hashguard](https://github.com/vientorepublic/hashguard)** - Hash-Based Proof-of-Work CAPTCHA Issuance/Verification Server
 - **[snowflake-id-node](https://github.com/Axoneo/snowflake-id-node)** - Snowflake ID Generator for Node.js
 - **[buffer-analysis-engine](https://github.com/vientorepublic/buffer-analysis-engine)** - Lightweight, dependency-free buffer analysis engine for file content inspection
 - **[melona](https://github.com/vientorepublic/melona)** - Unofficial implementation of Melon API
