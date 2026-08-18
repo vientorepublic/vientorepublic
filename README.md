@@ -1,42 +1,46 @@
 # Hello, World! 👋
 
-## Introduce myself
+<p align="center">
+	<a href="https://x.com/mel0veyou_"><img src="https://img.shields.io/badge/%40mel0veyou_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @mel0veyou_" /></a>
+	<a href="mailto:op@viento.me"><img src="https://img.shields.io/badge/op%40viento.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: op@viento.me" /></a>
+</p>
 
-### Education
+## About
 
-- **Hannam University** - Computer Science Engineering
+- **Education**: Hannam University, Computer Science Engineering
+- **Focus**: Full-stack web development and digital security/privacy
+- **Interests**: Bitcoin, indie games, Austrian economics, libertarianism, and cute anime girls
 
-### Interested in
+## Tech Stack
 
-- Full-stack Web Development
-- Digital Security/Privacy
-- Cute Anime Girls
-- Bitcoin
-- Indie Games
-- Austrian Economics
-- Libertarianism
-- ...and many more
+<p align="center">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="48" height="48" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="48" height="48" />
+</p>
 
-## See at a glance
+## GitHub Activity
 
-### Stats
+<p align="center">
+	<img src="https://github-stats-extended.vercel.app/api?username=vientorepublic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="vientorepublic's GitHub stats" height="165" />
+</p>
 
-![vientorepublic's Stats](https://github-readme-stats.vercel.app/api?username=vientorepublic&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+## Projects
 
-![vientorepublic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vientorepublic&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
-
-### Projects
-
-- **[Mises Institute Korea (Web Development)](https://miseskorea.org)** - Non-profit organization dedicated to research and education in the Austrian School of economics
-- **[FlowAuth](https://auth.viento.me)** - Authentication system compliant with OAuth 2.0 standard (RFC6749)
-- **[LawCast](https://law.viento.me)** - A public webhook platform that detects and notifies new amendments to the National Assembly Legislative Notice (pal.assembly.go.kr).
-- **[Hashguard](https://github.com/vientorepublic/hashguard)** - Hash-Based Proof-of-Work CAPTCHA Issuance/Verification Server
-- **[snowflake-id-node](https://github.com/Axoneo/snowflake-id-node)** - Snowflake ID Generator for Node.js
-- **[buffer-analysis-engine](https://github.com/vientorepublic/buffer-analysis-engine)** - Lightweight, dependency-free buffer analysis engine for file content inspection
-- **[melona](https://github.com/vientorepublic/melona)** - Unofficial implementation of Melon API
+| Project                                                                            | Description                                                                                    |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [Mises Institute Korea](https://miseskorea.org)                                    | Web development for a nonprofit dedicated to Austrian School economics research and education. |
+| [FlowAuth](https://auth.viento.me)                                                 | OAuth 2.0 authentication system compliant with RFC 6749.                                       |
+| [LawCast](https://law.viento.me)                                                   | Public webhook platform for National Assembly Legislative Notice amendments.                   |
+| [Hashguard](https://github.com/vientorepublic/hashguard)                           | Hash-based proof-of-work CAPTCHA issuance and verification server.                             |
+| [snowflake-id-node](https://github.com/Axoneo/snowflake-id-node)                   | Snowflake ID generator for Node.js.                                                            |
+| [buffer-analysis-engine](https://github.com/vientorepublic/buffer-analysis-engine) | Lightweight, dependency-free engine for file-content inspection.                               |
+| [melona](https://github.com/vientorepublic/melona)                                 | Unofficial implementation of the Melon API.                                                    |
 
 <h2 align="center">Visitors</h2>
 
-<div align="center">
-<img src="https://count.getloli.com/get/@vientorepublic?theme=gelbooru" width="350"/>
-</div>
+<p align="center">
+	<img src="https://count.getloli.com/get/@vientorepublic?theme=gelbooru" alt="Visitor count" width="350" />
+</p>
